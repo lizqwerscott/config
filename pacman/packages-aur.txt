@@ -1,0 +1,9 @@
+alsa-tray
+amdgpu-pro-core-meta
+fluxgui
+glxinfo
+heroku-cli
+lazygit
+radeon-profile-git
+radeon-tray
+steam-fonts
